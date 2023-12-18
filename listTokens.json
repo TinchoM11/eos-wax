@@ -1,0 +1,93 @@
+[
+  {
+    "contract": "microfinance",
+    "symbol": "MPX",
+    "name": "MPX",
+    "decimals": 4,
+    "logoUri": undefined
+  },
+  {
+    "contract": "therealms4vr",
+    "symbol": "DAB",
+    "name": "dablabsdotio",
+    "decimals": 4,
+    "logoUri": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/dab.png"
+  },
+  {
+    "contract": "retrotokenss",
+    "symbol": "RETRO",
+    "name": "RETRO",
+    "decimals": 0,
+    "logoUri": undefined
+  },
+  {
+    "contract": "viblumovietv",
+    "symbol": "VIBLU",
+    "name": "VIBLU",
+    "decimals": 4,
+    "logoUri": undefined
+  },
+  {
+    "contract": "camelottoken",
+    "symbol": "CWTF",
+    "name": "CWTF",
+    "decimals": 0,
+    "logoUri": undefined
+  },
+  {
+    "contract": "camelottoken",
+    "symbol": "CWTG",
+    "name": "CWTG",
+    "decimals": 0,
+    "logoUri": undefined
+  },
+  {
+    "contract": "camelottoken",
+    "symbol": "CWTW",
+    "name": "CWTW",
+    "decimals": 0,
+    "logoUri": undefined
+  },
+  {
+    "contract": "myraduntoken",
+    "symbol": "MYRIAD",
+    "name": "MYRIAD",
+    "decimals": 4,
+    "logoUri": undefined
+  },
+  {
+    "contract": "alcorammswap",
+    "symbol": "WAXKYAN",
+    "name": "WAXKYAN",
+    "decimals": 6,
+    "logoUri": undefined
+  },
+  {
+    "contract": "journeytogod",
+    "symbol": "GODT",
+    "name": "GODT",
+    "decimals": 0,
+    "logoUri": undefined
+  },
+  {
+    "contract": "bobocoin.gm",
+    "symbol": "GOLD",
+    "name": "GOLD",
+    "decimals": 8,
+    "logoUri": undefined
+  },
+  {
+    "contract": "applefactory",
+    "symbol": "SEED",
+    "name": "SEED",
+    "decimals": 0,
+    "logoUri": undefined
+  },
+  {
+    "contract": "tokens.gm",
+    "symbol": "RAIN",
+    "name": "RAIN",
+    "decimals": 8,
+    "logoUri": undefined
+  }
+]

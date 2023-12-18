@@ -1,0 +1,103 @@
+{
+  "id": "7b652feb1e0",
+  "batches": [
+    {
+      "description": "Swap to target token",
+      "status": "PROCESSING",
+      "actions": [
+        {
+          "swapData": {
+            "fromChain": "SOLANA",
+            "fromAddress": "7RCjj9AiAAmiKD1wuBciXehsjSicpqxWXSi37MsUhdAA",
+            "fromToken": {
+              "symbol": "USDT",
+              "chain": "SOLANA",
+              "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+              "decimals": 6,
+              "name": "USDT",
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg"
+            },
+            "toToken": {
+              "symbol": "Bonk",
+              "chain": "SOLANA",
+              "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+              "decimals": 5,
+              "name": "BonkCoin",
+              "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I?ext=png"
+            },
+            "fromAmount": { "type": "BigNumber", "hex": "0x11cbd0" },
+            "toAmount": { "type": "BigNumber", "hex": "0x016935a7cd" },
+            "estimatedGas": { "type": "BigNumber", "hex": "0x1388" }
+          },
+          "estimate": {
+            "time": 0.5,
+            "costUsd": 0.000369,
+            "ethGas": { "type": "BigNumber", "hex": "0x00" },
+            "maticGas": { "type": "BigNumber", "hex": "0x00" },
+            "avaxGas": { "type": "BigNumber", "hex": "0x00" },
+            "arbGas": { "type": "BigNumber", "hex": "0x00" },
+            "bscGas": { "type": "BigNumber", "hex": "0x00" },
+            "solGas": { "type": "BigNumber", "hex": "0x1388" },
+            "optGas": { "type": "BigNumber", "hex": "0x00" },
+            "eosEvmGas": { "type": "BigNumber", "hex": "0x00" },
+            "baseGas": { "type": "BigNumber", "hex": "0x00" },
+            "flowGas": { "type": "BigNumber", "hex": "0x00" },
+            "klaytnGas": { "type": "BigNumber", "hex": "0x00" },
+            "dfkGas": { "type": "BigNumber", "hex": "0x00" }
+          },
+          "status": "PROCESSING",
+          "type": "SWAP",
+          "swapResponse": {
+            "data": null,
+            "error": "Transaction was not confirmed in 60.00 seconds. It is unknown if it succeeded or failed. Check signature hASH6RV67QqiXnAbtFDu1ypSkEVhcyYDskZN6MbLRcvA1aJPHVGyRTTUfCA7x5vjuF7rhEymbY6z92rmmPsRMaY using the Solana Explorer or CLI tools."
+          }
+        }
+      ],
+      "estimate": {
+        "time": 0.5,
+        "costUsd": 0.000369,
+        "ethGas": { "type": "BigNumber", "hex": "0x00" },
+        "maticGas": { "type": "BigNumber", "hex": "0x00" },
+        "optGas": { "type": "BigNumber", "hex": "0x00" },
+        "avaxGas": { "type": "BigNumber", "hex": "0x00" },
+        "arbGas": { "type": "BigNumber", "hex": "0x00" },
+        "bscGas": { "type": "BigNumber", "hex": "0x00" },
+        "solGas": { "type": "BigNumber", "hex": "0x1388" },
+        "eosEvmGas": { "type": "BigNumber", "hex": "0x00" },
+        "baseGas": { "type": "BigNumber", "hex": "0x00" },
+        "flowGas": { "type": "BigNumber", "hex": "0x00" },
+        "klaytnGas": { "type": "BigNumber", "hex": "0x00" },
+        "dfkGas": { "type": "BigNumber", "hex": "0x00" }
+      }
+    }
+  ],
+  "status": "PROCESSING",
+  "toToken": {
+    "symbol": "Bonk",
+    "chain": "SOLANA",
+    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "decimals": 5,
+    "name": "BonkCoin",
+    "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I?ext=png"
+  },
+  "toAddress": "7RCjj9AiAAmiKD1wuBciXehsjSicpqxWXSi37MsUhdAA",
+  "toChain": "SOLANA",
+  "toAmount": "5500000000",
+  "estimate": {
+    "time": 0.5,
+    "costUsd": 0.000369,
+    "ethGas": { "type": "BigNumber", "hex": "0x00" },
+    "maticGas": { "type": "BigNumber", "hex": "0x00" },
+    "optGas": { "type": "BigNumber", "hex": "0x00" },
+    "avaxGas": { "type": "BigNumber", "hex": "0x00" },
+    "arbGas": { "type": "BigNumber", "hex": "0x00" },
+    "bscGas": { "type": "BigNumber", "hex": "0x00" },
+    "solGas": { "type": "BigNumber", "hex": "0x1388" },
+    "eosEvmGas": { "type": "BigNumber", "hex": "0x00" },
+    "baseGas": { "type": "BigNumber", "hex": "0x00" },
+    "flowGas": { "type": "BigNumber", "hex": "0x00" },
+    "klaytnGas": { "type": "BigNumber", "hex": "0x00" },
+    "dfkGas": { "type": "BigNumber", "hex": "0x00" }
+  },
+  "fromUid": "4e51ec72-4094-4208-8339-ca73b9b23a2c"
+}

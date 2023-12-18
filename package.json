@@ -1,0 +1,18 @@
+{
+  "name": "eosjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@waxio/waxjs": "^1.7.0",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "eosjs": "^22.1.0",
+    "eosjs-ecc": "^4.0.7"
+  }
+}
